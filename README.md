@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./1.png" width="600" alt="Imagem do projeto">
+</p>
+
+
 🌟 CRUD Completo em JavaScript
 
 ✨ Funcionalidades
